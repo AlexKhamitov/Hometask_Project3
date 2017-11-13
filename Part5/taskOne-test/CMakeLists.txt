@@ -8,4 +8,6 @@ add_executable(${PROJECT_NAME} test.cpp)
 add_executable(${NAMESPACE}::${SOMPONENT} ALIAS ${PROJECT_NAME})
 
 find_package(taskOne-smi)
+target_link_libraries(${PROJECT_NAME} PRIVATE taskOne::smi)
+
 

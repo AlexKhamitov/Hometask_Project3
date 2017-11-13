@@ -4,6 +4,7 @@ project(taskOne)
 set(SUBPROJECTS
     ${PROJECT_NAME}-smi
     ${PROJECT_NAME}-test
+    ${PROJECT_NAME}-matrix
     )
 
 macro(find_package)

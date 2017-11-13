@@ -1,0 +1,11 @@
+/home/user/Projects/Khamitov_Project3/build-Part5-Desktop-Default/CMakeFiles/edit_cache.dir
+/home/user/Projects/Khamitov_Project3/build-Part5-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/user/Projects/Khamitov_Project3/build-Part5-Desktop-Default/taskOne-smi/CMakeFiles/edit_cache.dir
+/home/user/Projects/Khamitov_Project3/build-Part5-Desktop-Default/taskOne-smi/CMakeFiles/rebuild_cache.dir
+/home/user/Projects/Khamitov_Project3/build-Part5-Desktop-Default/taskOne-smi/CMakeFiles/taskOne-smi.dir
+/home/user/Projects/Khamitov_Project3/build-Part5-Desktop-Default/taskOne-test/CMakeFiles/edit_cache.dir
+/home/user/Projects/Khamitov_Project3/build-Part5-Desktop-Default/taskOne-test/CMakeFiles/rebuild_cache.dir
+/home/user/Projects/Khamitov_Project3/build-Part5-Desktop-Default/taskOne-test/CMakeFiles/taskOne-test.dir
+/home/user/Projects/Khamitov_Project3/build-Part5-Desktop-Default/taskOne-matrix/CMakeFiles/edit_cache.dir
+/home/user/Projects/Khamitov_Project3/build-Part5-Desktop-Default/taskOne-matrix/CMakeFiles/rebuild_cache.dir
+/home/user/Projects/Khamitov_Project3/build-Part5-Desktop-Default/taskOne-matrix/CMakeFiles/taskOne-matrix.dir

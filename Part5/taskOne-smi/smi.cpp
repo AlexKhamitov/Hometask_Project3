@@ -22,7 +22,7 @@ namespace smi
                 }
                 else if(j - width * height == width)
                 {
-                    delete p[];
+                    delete[] p;
                     p = nullptr;
                 }
                 ++height;
@@ -54,10 +54,11 @@ namespace smi
         matrix.p = nullptr;
     }
 
-    explicit operator bool() const
+    SymbolMatrix::operator bool() const
     {
         return p != nullptr;
     }
+
 
     SymbolMatrix& SymbolMatrix::operator = (const SymbolMatrix& matrix)
     {

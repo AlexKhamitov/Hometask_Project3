@@ -1,0 +1,10 @@
+# ninja log v5
+0	734	0	taskOne-smi/CMakeFiles/taskOne-smi.dir/main.cpp.o	56ae0aa0448adc3
+0	63	0	build.ninja	f9078e84f8277b9b
+0	39	0	build.ninja	f9078e84f8277b9b
+1	838	0	taskOne-smi/CMakeFiles/taskOne-smi.dir/smi.cpp.o	77b9dda1d96df253
+838	955	0	taskOne-smi/libtaskOne-smi.a	e6b6eebefc1e3a02
+955	1581	0	taskOne-test/CMakeFiles/taskOne-test.dir/test.cpp.o	6be3dc1b2a6417f6
+955	1611	0	taskOne-matrix/CMakeFiles/taskOne-matrix.dir/main.cpp.o	8c55f5a0e6f70316
+1581	1652	0	taskOne-test/taskOne-test	4c9114cf277c6eb3
+1611	1676	0	taskOne-matrix/taskOne-matrix	24a35095732d1b89
